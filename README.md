@@ -1,4 +1,4 @@
-# 📈 Sales & Demand Forecasting System
+# Sales & Demand Forecasting System
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge\&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=for-the-badge\&logo=scikit-learn)
@@ -10,7 +10,7 @@
 
 ---
 
-# 📌 Table of Contents
+# Table of Contents
 
 * [About the Project](#about-the-project)
 * [How It Works](#how-it-works)
@@ -28,7 +28,7 @@
 
 ---
 
-# 🧠 About the Project
+# About the Project
 
 Businesses rely on accurate sales forecasts to plan inventory, manage cash flow, prepare staffing, and avoid overstocking or losses.
 
@@ -44,7 +44,7 @@ This project builds a **Machine Learning-based Sales Forecasting System** that:
 
 ---
 
-# ⚙️ How It Works
+# How It Works
 
 ```text
 Raw Sales CSV
@@ -100,7 +100,7 @@ Raw Sales CSV
 
 ---
 
-# ✨ Key Features
+# Key Features
 
 | Feature                     | Description                                              |
 | --------------------------- | -------------------------------------------------------- |
@@ -115,7 +115,7 @@ Raw Sales CSV
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 sales-forecasting/
@@ -144,7 +144,7 @@ sales-forecasting/
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Category         | Tools Used                                 |
 | ---------------- | ------------------------------------------ |
@@ -159,7 +159,7 @@ sales-forecasting/
 
 ---
 
-# 📦 Setup and Installation
+# Setup and Installation
 
 ## 1️⃣ Clone the Repository
 
@@ -195,7 +195,7 @@ data/
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 ## Option 1 — Streamlit Web App
 
@@ -224,7 +224,7 @@ This will:
 
 ---
 
-# 🌐 Web App Usage
+# Web App Usage
 
 1. Upload a CSV dataset
 2. Select the date column
@@ -242,7 +242,7 @@ This will:
 
 ---
 
-# 📐 How Forecasts Are Generated
+# How Forecasts Are Generated
 
 ## Step 1 — Monthly Aggregation
 
@@ -287,7 +287,7 @@ Future sales are predicted recursively, where each prediction becomes part of th
 
 ---
 
-# 📊 Model Evaluation Metrics
+# Model Evaluation Metrics
 
 | Metric   | Meaning                           |
 | -------- | --------------------------------- |
@@ -305,7 +305,7 @@ Future sales are predicted recursively, where each prediction becomes part of th
 
 ---
 
-# 💡 What the Forecast Means for Business
+# What the Forecast Means for Business
 
 Business owners can use the forecast to:
 
@@ -318,7 +318,7 @@ Business owners can use the forecast to:
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 **Superstore Sales Dataset**
 
@@ -338,7 +338,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 * [ ] Prophet forecasting support
 * [ ] ARIMA forecasting support
@@ -353,14 +353,14 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
 
-# 👨‍💻 Author
+# Author
 Deepak Rajesh
 
 Built as part of **Future Interns ML Task 1 – 2026**
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the **MIT License**.
 
